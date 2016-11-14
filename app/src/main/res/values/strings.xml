@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyLoveBookReader</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="book_read_download_error">网络异常，已取消下载</string>
+    <string name="book_read_download_complete">缓存完成，失败%1$d章</string>
+    <string name="book_read_alreday_download">已缓存过:%1$s(%2$d/%3$d)...</string>
+    <string name="book_read_download_progress">正在缓存:%1$s(%2$d/%3$d)...</string>
+</resources>
